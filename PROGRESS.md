@@ -1,13 +1,16 @@
 # LeetCode Progress Tracker
 
-| Date | Problem | Topic | Difficulty | Status | Time Taken |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| 27/11 | Two Sum | Arrays & Strings | Easy | ✅ Solved | 12 min |
-| DD/MM | Reverse a String | Arrays & Strings | Easy | ⏳ Pending | - |
-| DD/MM | Valid Anagram | Arrays & Strings | Easy | ⏳ Pending | - |
-| DD/MM | Best Time to Buy and Sell Stock | Arrays & Strings | Easy–Medium | ⏳ Pending | - |
-| DD/MM | Longest Common Prefix | Arrays & Strings | Easy–Medium | ⏳ Pending | - |
-| DD/MM | Binary Search | Basic Algorithms | Easy–Medium | ⏳ Pending | - |
-| DD/MM | Move Zeroes | Basic Algorithms | Easy–Medium | ⏳ Pending | - |
-| DD/MM | Valid Parentheses | Stacks | Easy–Medium | ⏳ Pending | - |
-| DD/MM | Reverse a Linked List (Bonus) | Linked Lists | Easy–Medium | ⏳ Pending | - |
+
+
+| # | Problem | Category | Language | Status |
+|---|---|---|---|---|
+| 1 | Two Sum | Arrays / Hashing | C | Completed |
+| 2 | Reverse Words in a String | Strings | C | Completed |
+| 3 | Valid Anagram | Strings / Hashing | C | Completed |
+| 4 | Best Time to Buy and Sell Stock | Arrays / Sliding Window | C | Completed |
+| 5 | Longest Common Prefix | Strings | C | Completed |
+| 6 | Binary Search | Binary Search | C | Completed |
+| 7 | Move Zeroes | Two Pointers / Arrays | C | Completed |
+| 8 | Valid Parentheses | Stacks | C | Completed |
+| 9 | Reverse Linked List | Linked Lists | C | Completed |
+
